@@ -15,7 +15,7 @@ create_env() {
 }
 
 write_profile() {
-  echo "=====> Writing SOURCE_VERSION ($SOURCE_VERSION) to $DEST"
+  echo "=====> Writing SOURCE_VERSION ($SOURCE_VERSION) to $PROFILE_PATH"
   echo "GIT_SHA=\"$SOURCE_VERSION\"" >> $PROFILE_PATH
 }
 
