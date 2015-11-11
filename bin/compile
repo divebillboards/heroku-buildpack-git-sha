@@ -21,3 +21,5 @@ write_profile() {
 
 create_env
 write_profile
+
+exit 0
