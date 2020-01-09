@@ -1,4 +1,11 @@
+# OBSOLETE
+
+This repository is obsolete. See:
+
+https://github.com/dive-networks/dive-web-app/commit/1ce574f31a4624e279b2e0f101261900271f5456
+
 # heroku-buildpacks-git-sha
+
 Exports the Heroku SOURCE_VERSION variable (usually the Git SHA) to an env variable that
 application code can access.
 
