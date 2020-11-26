@@ -14,7 +14,7 @@ The order of buildpacks does matter. You probably want this one first in the
 order. For example:
 
 ```bash
-heroku buildpacks:add --index 1 https://github.com/dive-networks/heroku-buildpack-git-sha.git
+heroku buildpacks:add --index 1 https://github.com/ThriveFinancial/heroku-buildpack-git-sha.git
 ```
 
 
